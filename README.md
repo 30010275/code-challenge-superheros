@@ -1,4 +1,4 @@
-# 🦸‍♀️ Superheroes API
+#  Superheroes API
  simple flask app  **Superheroes**, and their **Powers**, and the relationship between them.
  
  Setup Instructions
